@@ -4,3 +4,4 @@ click~=8.1.0
 idna>=3.1
 requests~=2.27.0
 
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
